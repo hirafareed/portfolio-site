@@ -1,0 +1,10 @@
+/*partials*/
+@import "./custom";
+@import "./NavBar";
+@import "./HomePage";
+@import "./AboutPage";
+
+/*third parties*/
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "../../node_modules/bootstrap/scss/reboot";

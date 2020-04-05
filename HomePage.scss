@@ -1,0 +1,73 @@
+.layout-hero {
+  padding-top: 8%;
+  //   background-color: red;
+}
+
+hr.line-landing {
+  display: inline-block;
+  float: left;
+  margin-top: 59px;
+  border-top: 1px solid #0067ff;
+
+  width: 5%;
+}
+
+.intro-sub {
+  margin-left: 2%;
+  font-size: 1.3em;
+  color: #0067ff;
+  display: inline-block;
+  float: left;
+  // background-color: red;
+  font-family: "BerlingskeSerif Bold";
+  src: url(../font/BerlingskeSerif-Bold.ttf);
+  letter-spacing: 0.5px;
+}
+
+.clickEvent {
+  cursor: pointer;
+  margin-left: 440px;
+  margin-top: 410px;
+  width: 1.5%;
+  z-index: 10;
+  position: absolute;
+  top: 0;
+  left: 0;
+  // background-color: pink;
+}
+
+.lottie-animation {
+  padding-top: 9%;
+  width: 50%;
+}
+
+.intro-name {
+  font-family: "Avenir Next Demi";
+  src: url(../font/AvenirNextLTPro-Bold.otf);
+  font-size: 7em;
+}
+
+.intro-info {
+  font-family: "Graphik Light";
+  src: url(../font/Graphik-Light.ttf);
+  font-size: 3em;
+  margin-bottom: 5.5%;
+  line-height: 1.25em;
+
+  //   margin-top: 5%;
+}
+
+.projects-link {
+  font-family: "Graphik SemiBold";
+  src: url(../font/Graphik-Semibold.ttf);
+  h2 {
+    font-size: 1em;
+    margin-bottom: 20%;
+    letter-spacing: 2px;
+    color: black;
+    border-bottom: 0.1em solid #0067ff;
+    padding-bottom: 10px;
+    width: 14%;
+    // padding-bottom: 3px;
+  }
+}
